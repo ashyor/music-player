@@ -22,19 +22,21 @@ $(function () {
     "Proxy (Original Mix)"
   ];
   const trackNames = [
-    "Alex Skrindo - Me & You",
-    "Skylike - Dawn",
-    "Kaaze - Electro Boy",
-    "Jordan Schor - Home",
-    "Martin Garrix - Proxy"
+    "Florence + The Machine - Spectrum",
+    "Boygenius - Not Strong Enough",
+    "Nick Cave, Bad Seeds - O Children",
+    "Tame Impala - One More Hour",
+    "Let Down - Radiohead"
+    "Phantogram - Black Out Days"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
   const trackUrl = [
-    "https://singhimalaya.github.io/Codepen/assets/music/1.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/2.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/3.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/4.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/5.mp3"
+    "https://files.catbox.moe/4dxgix.mp3",
+    "https://files.catbox.moe/tygk8g.mp3",
+    "https://files.catbox.moe/xekgaq.mp3",
+    "https://files.catbox.moe/0npdrr.mp3",
+    "https://files.catbox.moe/zzu7pm.mp3"
+    "https://files.catbox.moe/a5znia.mp3"
   ];
 
   let bgArtworkUrl,
